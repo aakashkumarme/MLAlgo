@@ -1,2 +1,2 @@
 # MLAlgo
-Algorithm and notes of Course on Machine Learning 
+Algorithm and notes on ML Internship
