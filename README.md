@@ -1,2 +1,2 @@
 # MLAlgo
-Algorithm and notes
+Algorithm and notes of Course on Machine Learning 
